@@ -1,0 +1,6 @@
+framework module Pods_AR_Quick_Look_Starter {
+  umbrella header "Pods-AR Quick Look Starter-umbrella.h"
+
+  export *
+  module * { export * }
+}
