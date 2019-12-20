@@ -1,7 +1,22 @@
-# Bayti
+# Bayti - iOS App for the 2019 IEEEmadC Mobile Application
+
+ <br><br>
+ 
 ![image1](https://user-images.githubusercontent.com/29166033/71294306-d421ea80-2380-11ea-9815-84cbfee9fa0a.png)
 
-<br><br>
+
+# Team
+
+![Doaa AbuJayyab](https://github.com/djayyab)
+
+
+# Promotional Video
+
+![Watch the video](https://drive.google.com/file/d/1BDLghageZ_1kMBG35KBDyX0-CHPLNs7-/view?usp=sharing)
+
+# Description
+
+# Screenshots
   
   ![image28](https://user-images.githubusercontent.com/29166033/71294346-ebf96e80-2380-11ea-8867-e5407068ba29.png)
   
