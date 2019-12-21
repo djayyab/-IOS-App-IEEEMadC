@@ -40,7 +40,7 @@ This project is an important part of the lives of people who want to buy furnitu
 
 # Disclaimer
 
-Bayti is a product designed and developed by Doaa Abu Jayyab. All photos used in the app or promotional collaterals are open-source and royalty free from Unsplash.com.
+Bayti is a product designed and developed by Doaa Abu Jayyab. All photos used in the app or promotional collaterals are open-source
 
 # License
 
