@@ -3,7 +3,10 @@
  <br><br>
  
 ![image1](https://user-images.githubusercontent.com/29166033/71294306-d421ea80-2380-11ea-9815-84cbfee9fa0a.png)
-
+ 
+The purpose of our project is making iOS app that displays companies’ products in interactive environment like AR and reach as many customers as a possible.
+The main result of this project the customers prefer interactive methods, so the purchase of promoting product will increase.
+ 
 
 # Team
 
@@ -15,6 +18,11 @@
 ![Watch the video](https://drive.google.com/file/d/1BDLghageZ_1kMBG35KBDyX0-CHPLNs7-/view?usp=sharing)
 
 # Description
+
+This application makes the customers easily to take decision any furniture suitable for them, which makes their lives better and improves. On the other hand, companies can market to their product that will reach to all people who use the application.
+This project is an important part of the lives of people who want to buy furniture but they do not like going to furniture shop and for people have hard moods to decide any furniture suitable to their rooms
+
+
 
 # Screenshots
   
