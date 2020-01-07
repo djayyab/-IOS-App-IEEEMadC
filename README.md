@@ -15,8 +15,9 @@ The main result of this project the customers prefer interactive methods, so the
 
 # Promotional Video
 
-![Watch the video](https://drive.google.com/file/d/1BDLghageZ_1kMBG35KBDyX0-CHPLNs7-/view?usp=sharing)
+Watch the video
 
+<a href="{https://drive.google.com/file/d/1BDLghageZ_1kMBG35KBDyX0-CHPLNs7-/view?usp=sharing}" title="Link Title">
 # Description
 
 This application makes the customers easily to take decision any furniture suitable for them, which makes their lives better and improves. On the other hand, companies can market to their product that will reach to all people who use the application.
